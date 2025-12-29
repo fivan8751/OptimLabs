@@ -1,0 +1,8 @@
+.vscode/
+Library/
+Logs/
+Temp/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-firstpass.csproj
+Malignant.sln
